@@ -67,6 +67,11 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 2. https://qconnewyork.com/ny2015/system/files/presentation-slides/uberRUSH.pdf
 3. http://projects.spring.io/spring-cloud/
 4. https://zeit.co/blog/next# (NodeJS + ReactJS)
+5. http://pivotaljourney.blogspot.com/2016/06/microservices-with-spring-boot-spring.html
+6. https://spring.io/blog/2015/07/14/microservices-with-spring
+
+## Effective Learning
+1. https://news.ycombinator.com/item?id=13047576
 
 
 
