@@ -63,7 +63,8 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## Distributed Systems / Microservices
 1. https://qconlondon.com/london-2014/dl/qcon-london-2014/slides/AdrianCockcroft_MigratingToMicroservices.pdf
 2. https://qconnewyork.com/ny2015/system/files/presentation-slides/uberRUSH.pdf
-3. https://zeit.co/blog/next# (NodeJS + ReactJS)
+3. http://projects.spring.io/spring-cloud/
+4. https://zeit.co/blog/next# (NodeJS + ReactJS)
 
 
 
