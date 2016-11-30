@@ -27,6 +27,8 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 1. http://blog.mailgun.com/machine-learning-for-everyday-tasks/
 2. https://hackernoon.com/wannabe-data-scientists-learn-the-basics-with-these-7-books-1a41cfbbdd34
 3. https://machinelearningmastery.com
+4. http://data36.com/ (good, easy to understand articles)
+5. http://data36.com/predictive-analytics-101-part-1/ (from above blog)
 
 ## Chatbots / Messaging / App Fatigue (Text, AI) 
 1. https://www.techinasia.com/talk/complete-beginners-guide-chatbots
