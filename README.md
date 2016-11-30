@@ -6,15 +6,12 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 
 ## Startups / Enterpreneurship
 1. How to start a company with no free time:
-
-   https://medium.com/startup-grind/how-to-start-a-company-with-no-free-time-b70fbe7b918a/
+     https://medium.com/startup-grind/how-to-start-a-company-with-no-free-time-b70fbe7b918a/
 2. Success Stories / Lessons Learned:
-
-   https://urchin.biz/urchin-software-corp-89a1f5292999  (Read the summary)
+     https://urchin.biz/urchin-software-corp-89a1f5292999  (Read the summary)
    
 3. The only enterpreneurship lesson you ever need:
-
-   https://medium.com/startup-grind/the-only-entrepreneurship-lesson-reading-list-you-need-105d9e3bcf5a    
+     https://medium.com/startup-grind/the-only-entrepreneurship-lesson-reading-list-you-need-105d9e3bcf5a    
 4. http://klinger.io/   
 5. HN/Techcrunch/Reddit (as always)  
 6. https://www.indiehackers.com/businesses 
