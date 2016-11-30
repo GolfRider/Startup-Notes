@@ -23,7 +23,7 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 1. https://techcrunch.com/2016/11/29/the-future-of-front-end-development-is-design/
        
 
-## DataScience
+## DataScience / ML
 1. http://blog.mailgun.com/machine-learning-for-everyday-tasks/
 2. https://hackernoon.com/wannabe-data-scientists-learn-the-basics-with-these-7-books-1a41cfbbdd34
 3. https://machinelearningmastery.com
