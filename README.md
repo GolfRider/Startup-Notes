@@ -72,7 +72,7 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 7. http://callistaenterprise.se/blogg/teknik/2015/05/20/blog-series-building-microservices/ [Good and Concise]
 8. http://callistaenterprise.se/assets/presentationer/microservices-sto.pdf
 9. https://spring.io/blog/2015/07/14/microservices-with-spring
-10.https://programmaticponderings.com/2016/02/15/diving-deeper-into-getting-started-with-spring-cloud/
+10. https://programmaticponderings.com/2016/02/15/diving-deeper-into-getting-started-with-spring-cloud/
 
 ## Effective Learning
 1. https://news.ycombinator.com/item?id=13047576
