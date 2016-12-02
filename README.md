@@ -81,3 +81,6 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## Web Design
 1. http://adventurega.me/bootstrap/
 
+## Security
+1. https://www.crypto101.io/
+2. https://www.owasp.org
