@@ -88,27 +88,28 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## Microservices Design Principles
 Data Flows :
 
-1) Implement as pipelines (serial or parallel)
-2) Pipeline consists of stateful and statelss services
-3) Stateful services obtains data
-4) Statelss services transforms data
-5) See if you can model a given pipeline/transformation in a single service (ie, Pipeline/Orchestration Services, which are again stateless in nature)
-6) Design systems in sync with reality
-7) Data moves/flows through the system in a immutable way
-8) Immutable data flows/pipelines
-9) CQRS/ Event Sourcing evolution can be handled later in time
-10) Separation Of concerns based on dataflows
+- 1) Implement as pipelines (serial or parallel)
+- 2) Pipeline consists of stateful and statelss services
+- 3) Stateful services obtains data
+- 4) Statelss services transforms data
+- 5) See if you can model a given pipeline/transformation in a single service
+     (ie, Pipeline/Orchestration Services, which are again stateless in nature)
+- 6) Design systems in sync with reality
+- 7) Data moves/flows through the system in a immutable way
+- 8) Immutable data flows/pipelines
+- 9) CQRS/ Event Sourcing evolution can be handled later in time
+- 10) Separation Of concerns based on dataflows
 
-11) Data Flow Concerns of the system
+- 11) Data Flow Concerns of the system
     - Lifecycle 
     - Size
     - Structure
     - Velocity
     - Purpose
 
-Separation of concerns should be applied to both (data + algorithms)
-Results in natural decoupling
-Ex: CQRS, Polyglot persistence, Microservices
+- Separation of concerns should be applied to both (data + algorithms)
+- Results in natural decoupling
+- Ex: CQRS, Polyglot persistence, Microservices
 
 
 - Decouple services (for indepenedent scalaing, evolution, operations)
