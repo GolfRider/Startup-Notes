@@ -61,6 +61,8 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 3. http://www.businessinsider.com/entrepreneur-making-135000-a-month-shares-productivity-hacks-2016-10
 4. https://www.linkedin.com/pulse/its-all-start-abhishek-roy
 
+## Focus / Productivity
+1. https://www.linkedin.com/pulse/how-focus-things-matter-most-bruce-kasanoff
 
 ## Distributed Systems / Microservices
 1. https://qconlondon.com/london-2014/dl/qcon-london-2014/slides/AdrianCockcroft_MigratingToMicroservices.pdf
