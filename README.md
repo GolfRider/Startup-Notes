@@ -80,8 +80,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 1. https://news.ycombinator.com/item?id=13047576
 
 
-## Web Design
-1. http://adventurega.me/bootstrap/
+## Tools / Web Design
+1. https://mobirise.com/
+2. http://adventurega.me/bootstrap/
 
 ## Security
 1. https://www.crypto101.io/
