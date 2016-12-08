@@ -79,10 +79,17 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## Effective Learning
 1. https://news.ycombinator.com/item?id=13047576
 
+## How To Ship Products
+1. http://blog.andyjiang.com/how-to-ship-side-projects/
+2. https://news.ycombinator.com/item?id=13119075
+3. https://www.linkedin.com/pulse/how-focus-things-matter-most-bruce-kasanoff
 
 ## Tools / Web Design
-1. https://mobirise.com/
+1. http://launchaco.com/build/ (web site builder)
 2. http://adventurega.me/bootstrap/
+
+## Lambda Calculus
+1. http://www.cs.bham.ac.uk/~axj/pub/papers/lambda-calculus.pdf
 
 ## Security
 1. https://www.crypto101.io/
