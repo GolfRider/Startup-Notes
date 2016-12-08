@@ -95,6 +95,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 1. https://www.crypto101.io/
 2. https://www.owasp.org
 
+## Programming Talks
+1. http://www.opowell.com/post/talks-that-changed-the-way-i-think-about-programming/
+
 ## Microservices Design Principles
 Data Flows :
 
