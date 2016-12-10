@@ -77,6 +77,28 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 9. https://spring.io/blog/2015/07/14/microservices-with-spring
 10. https://programmaticponderings.com/2016/02/15/diving-deeper-into-getting-started-with-spring-cloud/
 
+## Distributed Systems Principles
+1. Ciruitbreakers, BulkHeading, Rate Limiters, Loadbalancers
+2. Fault/latency tolerant
+3. Consistent Hashing:
+        - Map servers + data to a logical ring
+        - Map a request to a range
+        - Request is handled by the server responsible for the range (cluster-size can vary dynamically ie, grow/shrink)
+4. Message headers
+5. Bloom filters (probablistic data structures) [not directly related, but still useful in many places]
+6. Http/JSON is typically 20 times slower than gRPC/thrift ie, binary serialization/de-serialization protocols
+7. CAP theorem
+8. Hard Problems of distributed systems:
+     -a. Exactly once delivery
+     -b. Guaranteed order of messages
+9. Microservices have operational overhead, so require good tooling/automation
+10. Microservices are simple inside
+11. Microservices are complex from outside/communications perspective
+12. Look from these perspectives:
+      - Organizational concerns
+      - Architectural concerns
+      - Developmental concerns
+      
 ## Effective Learning
 1. https://news.ycombinator.com/item?id=13047576
 
