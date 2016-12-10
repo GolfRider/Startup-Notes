@@ -98,6 +98,7 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
       - Organizational concerns
       - Architectural concerns
       - Developmental concerns
+13. Unit testing is easy, integrated testing is hard      
       
 ## Effective Learning
 1. https://news.ycombinator.com/item?id=13047576
