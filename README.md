@@ -142,3 +142,11 @@ Design Principles:
 - 3. Distributed System
 - 4. Conways Law
 - 5. Gall's system law
+
+References:
+- 1. Nginx Ref Architecure:
+     https://www.nginx.com/blog/introducing-the-nginx-microservices-reference-architecture/
+- 2. http://nordicapis.com/
+- 3. http://microservices.io/
+- 4. auth0.com
+   
