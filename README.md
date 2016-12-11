@@ -173,3 +173,32 @@ References:
 - 3. http://microservices.io/
 - 4. auth0.com
    
+ ## How to be successful
+ - 1. https://www.linkedin.com/pulse/7-brutally-honest-reasons-why-youll-never-successful-how-zahir-serrai
+ - 2. http://executivevine.com/executive/articles/7-painfully-honest-reasons-youll-never-successful/  [both have same content :-)]
+ - 3. Important Points:
+       - Have a clear vision of you want to accomplish, have your definition of success, as everyone is different
+       - Don't be afraid to ask help when required
+       - Being selfish doesn't help, it is important to help others to succeed 
+       - Being generous is good for your health too
+       - Have Disciplined Time management/ schedule:
+           - Everyone is busy, but yet nothing gets done, why ?; Spend time in a mindful way
+           - Time is more valuable than money
+           - Schedule and prioritize your tasks
+           - If you add something to your TODO lists, then remove something else
+           - Find the 1 or 2 important things and do them first.
+           - Do the most dreadful thing FIRST, instead of procrastinating it.
+           - Always decide what we have to do with the time given to us.
+        - Keep learning/improving yourself.
+        - There are no shortcuts to success.
+        - People generally are not ready to commit themselves for success.
+        - They choose unhapiness over uncertainity, they don't want to leave their comfort zone.
+        - Don't let failures paralyse your actions/thoughts at every step of the way
+        - So, COMMITMENT is the SECRET ingredient.
+        - Being successful is not about money, status or even reaching your goals, they are just the side effects
+        - Successful peopl love what they do, no matter how simple/hard it is, they are deeply passionate about their GOALS.
+        - So it is falling in love with the PROCESS every step of the WAY.
+        - So it is loving what you do, loving your failures/triumphs, loving all those who help you along the way
+        - More importantly, it is about LOVING YOURSELF...!!
+        
+        - 
