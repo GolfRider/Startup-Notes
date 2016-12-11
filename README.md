@@ -189,16 +189,15 @@ References:
            - Find the 1 or 2 important things and do them first.
            - Do the most dreadful thing FIRST, instead of procrastinating it.
            - Always decide what we have to do with the time given to us.
-        - Keep learning/improving yourself.
-        - There are no shortcuts to success.
-        - People generally are not ready to commit themselves for success.
-        - They choose unhapiness over uncertainity, they don't want to leave their comfort zone.
-        - Don't let failures paralyse your actions/thoughts at every step of the way
-        - So, COMMITMENT is the SECRET ingredient.
-        - Being successful is not about money, status or even reaching your goals, they are just the side effects
-        - Successful peopl love what they do, no matter how simple/hard it is, they are deeply passionate about their GOALS.
-        - So it is falling in love with the PROCESS every step of the WAY.
-        - So it is loving what you do, loving your failures/triumphs, loving all those who help you along the way
-        - More importantly, it is about LOVING YOURSELF...!!
-        
-        - 
+       - Keep learning/improving yourself.
+       - There are no shortcuts to success.
+       - People generally are not ready to commit themselves for success.
+       - They choose unhapiness over uncertainity, they don't want to leave their comfort zone.
+       - Don't let failures paralyse your actions/thoughts at every step of the way
+       - So, COMMITMENT is the SECRET ingredient.
+       - Being successful is not about money, status or even reaching your goals, they are just the side effects
+       - Successful peopl love what they do, no matter how simple/hard it is, they are deeply passionate about their GOALS.
+       - So it is falling in love with the PROCESS every step of the WAY.
+       - So it is loving what you do, loving your failures/triumphs, loving all those who help you along the way
+       - More importantly, it is about LOVING YOURSELF...!!
+       
