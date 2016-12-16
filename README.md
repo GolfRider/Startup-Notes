@@ -117,9 +117,10 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 3. https://www.linkedin.com/pulse/how-focus-things-matter-most-bruce-kasanoff
 
 ## Tools / Web Design
-1. http://launchaco.com/build/ (web site builder)
-2. http://adventurega.me/bootstrap/
-3. http://html5up.net
+1. https://www.smashingmagazine.com/2016/12/mistakes-developers-make-when-learning-design/ [Design Thinking]
+2. http://launchaco.com/build/ (web site builder)
+3. http://adventurega.me/bootstrap/
+4. http://html5up.net
 
 ## Lambda Calculus
 1. http://www.cs.bham.ac.uk/~axj/pub/papers/lambda-calculus.pdf
