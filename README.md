@@ -123,6 +123,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 3. http://adventurega.me/bootstrap/
 4. http://html5up.net
 
+## Career Tips
+1. https://news.ycombinator.com/item?id=13168798  [Advice to younger self]
+
 ## Lambda Calculus
 1. http://www.cs.bham.ac.uk/~axj/pub/papers/lambda-calculus.pdf
 
