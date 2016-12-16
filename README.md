@@ -113,7 +113,7 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 1. https://news.ycombinator.com/item?id=13047576
 
 ## How To Ship Products
-1. http://blog.andyjiang.com/how-to-ship-side-projects/
+1. http://blog.andyjiang.com/how-to-ship-side-projects/  [Be a Finisher, finish what you start]
 2. https://news.ycombinator.com/item?id=13119075
 3. https://www.linkedin.com/pulse/how-focus-things-matter-most-bruce-kasanoff
 
