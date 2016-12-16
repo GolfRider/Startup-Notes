@@ -61,6 +61,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 2. http://jamesclear.com/successful-people-start-before-they-feel-ready
 3. https://www.scotthyoung.com/blog/2015/04/01/finish-what-you-start/
 
+## Software Engineer to Enterpreneurship ?
+1. https://dzone.com/articles/dear-engineer-so-you-wanna-become-an-entrepreneur
+
 ## Self Help / Quotes / Productivity Tips
 1. http://wiki.c2.com/?RubberDucking (Self loud talk approach to Problem Solving)
 2. http://paulgraham.com/quo.html 
