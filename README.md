@@ -55,6 +55,7 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 4. https://dzone.com/articles/how-to-turn-your-github-page-into-a-personalized-r
 5. https://blog.remix.com/an-intro-to-integer-programming-for-engineers-simplified-bus-scheduling-bd3d64895e92
 6. https://www.quora.com/Jobs-and-Careers-What-is-some-good-general-career-advice
+7. http://www.crackingthecodinginterview.com/resources.html
 
 ## Effective Learning
 1. http://www.simplydjango.com/learn-python-efficiently/   [Great Read..!]
