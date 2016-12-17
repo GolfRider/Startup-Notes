@@ -57,6 +57,7 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 6. https://www.quora.com/Jobs-and-Careers-What-is-some-good-general-career-advice
 7. http://www.crackingthecodinginterview.com/resources.html
 8. https://www.quora.com/What-has-been-your-biggest-career-mistake [Good One from Quora]
+9. http://katemats.com/interview-questions/ [Epic List of Questions]
 
 ## Effective Learning
 1. http://www.simplydjango.com/learn-python-efficiently/   [Great Read..!]
