@@ -225,5 +225,5 @@ References:
 ## James Altucher Infographics/Notes
 1. How to avoid regrets
          https://image-store.slidesharecdn.com/8e002f91-e568-43e3-85c2-ed84bf608fd2-original.jpeg 
-2.          
+2. Get in there and swing the bat on every occassion         
          
