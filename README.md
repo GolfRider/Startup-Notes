@@ -221,3 +221,9 @@ References:
        - So it is loving what you do, loving your failures/triumphs, loving all those who help you along the way
        - More importantly, it is about LOVING YOURSELF...!!
        
+
+## James Altucher Infographics/Notes
+1. How to avoid regrets
+         https://image-store.slidesharecdn.com/8e002f91-e568-43e3-85c2-ed84bf608fd2-original.jpeg 
+2.          
+         
