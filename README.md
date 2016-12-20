@@ -49,6 +49,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 1. http://blockgeeks.com/guides/what-is-blockchain-technology-a-step-by-step-guide-than-anyone-can-understand/
 2. https://dzone.com/articles/blockchain-basics-and-opportunities-with-anna-derb
 
+## Remote Jobs
+1. https://news.ycombinator.com/item?id=13209020
+
 ## Career/Interview Notes/ Programming
 1. https://www.reaktor.com/blog/how-to-grow-into-your-best-developer-self/
 2. https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/
