@@ -222,7 +222,7 @@ References:
        - More importantly, it is about LOVING YOURSELF...!!
        
 
-## James Altucher Infographics/Notes
+## James Altucher Infographics/Other Notes
 1. How to avoid regrets
          https://image-store.slidesharecdn.com/8e002f91-e568-43e3-85c2-ed84bf608fd2-original.jpeg 
 2. Get in there and swing the bat on every occassion, don't worry about the past or the future..!!     
@@ -236,5 +236,7 @@ References:
 9. Don't let fear overtake you. Fear is not you.
 10. Above all Enjoy  your life, Make your life more rewarding , not just the Career.
 11. Time is short, life is precious, focus and do the right things, otherwise it is to get distracted by many things
+12. Don't get stuck , keep moving.
+13. "Don't be pushed by your problems, be led by your dreams" - Ralph Emerson
 
          
