@@ -246,5 +246,6 @@ References:
       https://www.linkedin.com/pulse/tim-ferriss-what-i-learned-from-ferrisss-tools-titans-james-altucher
 16. We worry unnecessarily, 99% of what we imagine doesn't turn out to be true, so stop having wasted thoughts:
      http://www.jamesaltucher.com/2016/08/percentage-worries-come-true      
+17. Mastering Programming: https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414     
 
          
