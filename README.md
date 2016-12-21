@@ -238,5 +238,6 @@ References:
 11. Time is short, life is precious, focus and do the right things, otherwise it is to get distracted by many things
 12. Don't get stuck , keep moving.
 13. "Don't be pushed by your problems, be led by your dreams" - Ralph Emerson
+14. Embrace messiness, don't complain, work around the constraints of life..!
 
          
