@@ -239,5 +239,7 @@ References:
 12. Don't get stuck , keep moving.
 13. "Don't be pushed by your problems, be led by your dreams" - Ralph Emerson
 14. Embrace messiness, don't complain, work around the constraints of life..!
+15. All you need to get started:
+      https://www.linkedin.com/pulse/tim-ferriss-what-i-learned-from-ferrisss-tools-titans-james-altucher
 
          
