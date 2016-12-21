@@ -63,6 +63,7 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 8. https://www.quora.com/What-has-been-your-biggest-career-mistake [Good One from Quora]
 9. http://katemats.com/interview-questions/ [Epic List of Questions]
 10. https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414 [Mastering Programming By Kent Beck]
+11. http://www.thecshandbook.com/ 
 
 ## Effective Learning
 1. http://www.simplydjango.com/learn-python-efficiently/   [Great Read..!]
