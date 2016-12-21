@@ -31,6 +31,7 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 4. http://data36.com/ (good, easy to understand articles)
 5. http://data36.com/predictive-analytics-101-part-1/ (from above blog)
 6. http://pythonforengineers.com
+7. http://course.fast.ai/index.html
 
 ## Chatbots / Messaging / App Fatigue (Text, AI) 
 1. https://www.techinasia.com/talk/complete-beginners-guide-chatbots
