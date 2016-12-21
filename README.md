@@ -225,5 +225,16 @@ References:
 ## James Altucher Infographics/Notes
 1. How to avoid regrets
          https://image-store.slidesharecdn.com/8e002f91-e568-43e3-85c2-ed84bf608fd2-original.jpeg 
-2. Get in there and swing the bat on every occassion, don't worry about the past or the future..!!         
+2. Get in there and swing the bat on every occassion, don't worry about the past or the future..!!     
+3. Don't glorify business, you would get burnt out.
+4. Focus on your time & do things that actually matters
+5. Don't spend energy in the wrong places
+6. Don't be perfectionist, or too passionate, be willing to change when required, no harm there..!!
+7. Your resume never captures all your capabilities, you deserve a better career, keep experimenting 
+   till you find the right one. It is OK to change/re-invent yourself. You are not cast in stone.
+8. Came across this article on LinkedIn: https://www.linkedin.com/pulse/how-get-raise-amit-agarwal
+9. Don't let fear overtake you. Fear is not you.
+10. Above all Enjoy  your life, Make your life more rewarding , not just the Career.
+11. Time is short, life is precious, focus and do the right things, otherwise it is to get distracted by many things
+
          
