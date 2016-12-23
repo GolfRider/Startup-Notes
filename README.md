@@ -252,5 +252,7 @@ References:
      http://www.jamesaltucher.com/2016/08/percentage-worries-come-true      
 17. Mastering Programming: https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414    
 18. " We learn most, when we have to invent" - Piaget, [So just do it :-)]
+19. How to win any game, including GAME of LIFE:
+      https://image-store.slidesharecdn.com/81c48cda-d57b-4f84-bf7c-0000026a4545-large.jpeg  [Simple, Good one]
 
          
