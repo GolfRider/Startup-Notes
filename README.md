@@ -69,6 +69,15 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 11. http://www.thecshandbook.com/ 
 12. http://www.ardendertat.com/2012/01/09/programming-interview-questions/
 
+## Algorithms / Data Structures
+1. https://www.learneroo.com/subjects/8
+2. http://www.cs.yale.edu/homes/aspnes/classes/223/notes.pdf
+3. https://manoharporeddy.quora.com/All-in-one-CS-CP-resources
+4. How to solve it by Computer
+5. Grokking Algorithms by Aditya Bhargava
+6. http://cl.ly/3k473a0M1W0l [IOI practice]
+7. http://www.iarcs.org.in/inoi/online-study-material/index.php
+
 ## Effective Learning
 1. http://www.simplydjango.com/learn-python-efficiently/   [Great Read..!]
 2. http://jamesclear.com/successful-people-start-before-they-feel-ready
