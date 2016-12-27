@@ -135,6 +135,12 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 3. http://adventurega.me/bootstrap/
 4. http://html5up.net
 
+## Punit Soni on His Startup
+1. Am I nervous? Yes, of course! But then our primary purpose in life should be 
+   to put ourselves in position of nervousness. 
+   All growth comes from being outside your comfort zone. And boy, am I uncomfortably excited!
+2. https://www.linkedin.com/pulse/uncomfortably-excited-punit-soni  [Good read]   
+
 ## Career Tips
 1. https://news.ycombinator.com/item?id=13168798  [Advice to younger self]
 
