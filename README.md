@@ -37,6 +37,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 10. https://github.com/ZuzooVn/machine-learning-for-software-engineers [Great list]
 11. http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 
+# SQL for Data Science
+1. https://dzone.com/articles/sql-for-data-science
+
 ## Chatbots / Messaging / App Fatigue (Text, AI) 
 1. https://www.techinasia.com/talk/complete-beginners-guide-chatbots
 2. https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca
