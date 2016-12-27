@@ -35,6 +35,7 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 8. https://drive.google.com/file/d/0BzipSlf0e7yCMzc0QlVuLXE2d1k/view  [Quick/Simple ML overview]
 9. https://pythonprogramming.net/data-analysis-tutorials/  [Really Good One, Free as well]
 10. https://github.com/ZuzooVn/machine-learning-for-software-engineers [Great list]
+11. http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 
 ## Chatbots / Messaging / App Fatigue (Text, AI) 
 1. https://www.techinasia.com/talk/complete-beginners-guide-chatbots
