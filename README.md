@@ -77,6 +77,7 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 5. Grokking Algorithms by Aditya Bhargava
 6. http://cl.ly/3k473a0M1W0l [IOI practice]
 7. http://www.iarcs.org.in/inoi/online-study-material/index.php
+8. https://www.quora.com/How-do-I-start-learning-or-strengthen-my-knowledge-of-data-structures-and-algorithms/answers/27366493
 
 ## Effective Learning
 1. http://www.simplydjango.com/learn-python-efficiently/   [Great Read..!]
