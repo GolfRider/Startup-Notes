@@ -61,8 +61,18 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 1. http://blockgeeks.com/guides/what-is-blockchain-technology-a-step-by-step-guide-than-anyone-can-understand/
 2. https://dzone.com/articles/blockchain-basics-and-opportunities-with-anna-derb
 
+## Building Faster Sites
+1. https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7
+
 ## Remote Jobs
 1. https://news.ycombinator.com/item?id=13209020
+2. https://news.ycombinator.com/item?id=13271830
+
+## How Time Management can Ruin Us
+1. https://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives
+
+## Polyglot Programming
+1. http://hyperpolyglot.org/
 
 ## Career/Interview Notes/ Programming
 1. https://www.reaktor.com/blog/how-to-grow-into-your-best-developer-self/
