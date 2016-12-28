@@ -283,6 +283,10 @@ References:
 
 ## Career & Life Advice All you need
 1. https://www.linkedin.com/pulse/10-important-career-lessons-most-people-learn-too-late-bernard-marr (awesome)
+
+
+## Ideas
+1. https://gitlab.com/sytses/sytses.gitlab.io/commit/e9a000d321430937027fc6f30fb3e99179e61fa4?w=1
       
 
          
