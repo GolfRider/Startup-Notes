@@ -37,6 +37,10 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 10. https://github.com/ZuzooVn/machine-learning-for-software-engineers [Great list]
 11. http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 
+# ML/Data Science Case Studies
+1. https://dzone.com/articles/how-to-use-data-science-and-machine-learning-to-re-1
+2. https://dzone.com/articles/how-to-use-data-science-and-machine-learning-to-re
+
 # SQL for Data Science
 1. https://dzone.com/articles/sql-for-data-science
 
