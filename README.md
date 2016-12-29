@@ -98,6 +98,7 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 7. http://cl.ly/3k473a0M1W0l [IOI practice]
 8. http://www.iarcs.org.in/inoi/online-study-material/index.php
 9. https://www.quora.com/How-do-I-start-learning-or-strengthen-my-knowledge-of-data-structures-and-algorithms/answers/27366493
+10. https://www.commonlounge.com/discussion/97e9927870d84b51a7dc5d4a52d5434d/main
 
 ## Think & Grow Rich
 1. http://selfmadesuccess.com/think-grow-rich-30-major-causes-failure/ [Napolean Hill's book summary]
