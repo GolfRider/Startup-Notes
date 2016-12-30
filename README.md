@@ -41,11 +41,11 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 1. https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/
 2. https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/
 
-# ML/Data Science Case Studies
+## ML/Data Science Case Studies
 1. https://dzone.com/articles/how-to-use-data-science-and-machine-learning-to-re-1
 2. https://dzone.com/articles/how-to-use-data-science-and-machine-learning-to-re
 
-# SQL for Data Science
+## SQL for Data Science
 1. https://dzone.com/articles/sql-for-data-science
 
 ## Chatbots / Messaging / App Fatigue (Text, AI) 
