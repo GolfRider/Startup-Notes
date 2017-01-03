@@ -40,6 +40,7 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## ML Crash Course
 1. https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/
 2. https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/
+3. https://www.linkedin.com/pulse/2016-most-popular-data-science-machine-learning-mike
 
 ## ML/Data Science Case Studies
 1. https://dzone.com/articles/how-to-use-data-science-and-machine-learning-to-re-1
