@@ -73,6 +73,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 1. https://news.ycombinator.com/item?id=13209020
 2. https://news.ycombinator.com/item?id=13271830
 
+## Time locks
+1. https://www.linkedin.com/pulse/extract-from-70-minute-hour-written-dr-jim-hemming-subhiramaniyam
+
 ## How Time Management can Ruin Us
 1. https://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives
 
@@ -300,6 +303,7 @@ References:
 19. How to win any game, including GAME of LIFE:
       https://image-store.slidesharecdn.com/81c48cda-d57b-4f84-bf7c-0000026a4545-large.jpeg  [Simple, Good one]
 20. How to create your scene : https://image-store.slidesharecdn.com/ef87ce46-e2fa-4438-aed0-dbbe8812a0a6-large.jpeg  
+21. http://www.jamesaltucher.com/2012/02/how-to-increase-your-productivity-500/
 
 ## Career & Life Advice All you need
 1. https://www.linkedin.com/pulse/10-important-career-lessons-most-people-learn-too-late-bernard-marr (awesome)
