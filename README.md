@@ -20,6 +20,7 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 9. https://www.linkedin.com/pulse/its-all-start-abhishek-roy
 10. https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1
 
+
 ## Product Design/Prototyping
 1. https://techcrunch.com/2016/11/29/the-future-of-front-end-development-is-design/
        
@@ -72,6 +73,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## Remote Jobs
 1. https://news.ycombinator.com/item?id=13209020
 2. https://news.ycombinator.com/item?id=13271830
+
+## Jack Ma on Ambitions
+1. https://www.linkedin.com/pulse/youre-still-poor-35-you-deserve-jack-ma-alvin-lee
 
 ## Time locks
 1. https://www.linkedin.com/pulse/extract-from-70-minute-hour-written-dr-jim-hemming-subhiramaniyam
