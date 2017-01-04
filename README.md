@@ -50,6 +50,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## SQL for Data Science
 1. https://dzone.com/articles/sql-for-data-science
 
+## Sam Altman Notes
+1. https://blog.ycombinator.com/notes-for-the-new-year/
+
 ## Chatbots / Messaging / App Fatigue (Text, AI) 
 1. https://www.techinasia.com/talk/complete-beginners-guide-chatbots
 2. https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca
