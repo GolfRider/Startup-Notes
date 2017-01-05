@@ -89,6 +89,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## Polyglot Programming
 1. http://hyperpolyglot.org/
 
+## Infographics
+1. https://image-store.slidesharecdn.com/68112a01-3f1d-4e87-bed2-a7e963606299-large.png
+
 ## Career/Interview Notes/ Programming
 1. https://www.reaktor.com/blog/how-to-grow-into-your-best-developer-self/
 2. https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/
