@@ -4,6 +4,10 @@ These are some of the few bookmarks on various topics ranging from technology, s
 It may not be properly organized. They say, don't chase perfection, just do it.
 Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 
+
+## Warren Buffet's Single Advice to Boost your value by 50% (Public Speaking)
+1. http://www.inc.com/carmine-gallo/the-one-skill-warren-buffett-says-will-raise-your-value-by-50.html
+
 ## Startups / Enterpreneurship
 1. How to start a company with no free time:
      https://medium.com/startup-grind/how-to-start-a-company-with-no-free-time-b70fbe7b918a/
