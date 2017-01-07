@@ -11,6 +11,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## Computer Alogrithms (Creative)
 1. http://carlcheo.com/compsci
 
+## Successful one-person oneline businesses (HN)
+1. https://news.ycombinator.com/item?id=13326535
+
 ## Startups / Enterpreneurship
 1. How to start a company with no free time:
      https://medium.com/startup-grind/how-to-start-a-company-with-no-free-time-b70fbe7b918a/
