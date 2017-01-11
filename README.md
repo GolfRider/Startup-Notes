@@ -34,6 +34,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## Product Design/Prototyping
 1. https://techcrunch.com/2016/11/29/the-future-of-front-end-development-is-design/
        
+## Do Something When Depressed
+1. https://byrslf.co/when-you-are-depressed-make-something-49467edd1933  (great read)
+
 
 ## DataScience / ML
 1. http://blog.mailgun.com/machine-learning-for-everyday-tasks/
