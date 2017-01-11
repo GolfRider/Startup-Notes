@@ -66,6 +66,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## SQL for Data Science
 1. https://dzone.com/articles/sql-for-data-science
 
+## Data Structures / Algorithms (Quora List)
+1. https://www.quora.com/What-algorithms-and-data-structures-should-any-software-engineer-know
+
 ## Sam Altman Notes
 1. https://blog.ycombinator.com/notes-for-the-new-year/
 
