@@ -31,6 +31,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 10. https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1
 
 
+## Periodic Table (Interesting illustration)
+1. https://image-store.slidesharecdn.com/4d4490d7-6c08-4b54-be7e-bdd048182bc3-large.png
+
 ## Product Design/Prototyping
 1. https://techcrunch.com/2016/11/29/the-future-of-front-end-development-is-design/
        
