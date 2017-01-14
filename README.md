@@ -33,6 +33,7 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## Data Structures Tutorials
 1. http://cs.yale.edu/homes/aspnes/classes/223/notes.html
 2. https://www.cs.auckland.ac.nz/~jmor159/PLDS210/ds_ToC.html
+3. http://web.engr.oregonstate.edu/~glencora/other/tcscrashcourse.pdf  (Concise Theoretical CS Notes)
 
 
 ## Periodic Table (Interesting illustration)
