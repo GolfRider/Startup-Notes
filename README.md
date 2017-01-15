@@ -35,6 +35,10 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 2. https://www.cs.auckland.ac.nz/~jmor159/PLDS210/ds_ToC.html
 3. http://web.engr.oregonstate.edu/~glencora/other/tcscrashcourse.pdf  (Concise Theoretical CS Notes)
 
+## Finish stuff, be productive not busy
+1. http://www.jacksimpson.co/finishing-being-productive-busy/
+
+
 
 ## Periodic Table (Interesting illustration)
 1. https://image-store.slidesharecdn.com/4d4490d7-6c08-4b54-be7e-bdd048182bc3-large.png
