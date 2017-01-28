@@ -42,6 +42,10 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 1. https://medium.com/art-of-practicality  (Great stuff ..!!)
 2. https://medium.com/art-of-practicality/stop-spending-so-much-time-in-your-head-8840de3bba01
 
+# What Insight for key growth career/ startups : HN Discussion
+1. https://news.ycombinator.com/item?id=13502901  (Good One)
+2. "In business as in life, you don't get what you deserve, you get what you negotiate"
+
 
 ## Periodic Table (Interesting illustration)
 1. https://image-store.slidesharecdn.com/4d4490d7-6c08-4b54-be7e-bdd048182bc3-large.png
