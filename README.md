@@ -38,6 +38,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## Finish stuff, be productive not busy
 1. http://www.jacksimpson.co/finishing-being-productive-busy/
 
+## Art of Practicality
+1. https://medium.com/art-of-practicality  (Great stuff ..!!)
+2. https://medium.com/art-of-practicality/stop-spending-so-much-time-in-your-head-8840de3bba01
 
 
 ## Periodic Table (Interesting illustration)
