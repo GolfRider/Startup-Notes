@@ -34,6 +34,16 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## Deep Work
 1. https://www.quora.com/What-is-the-best-habit-youve-taken-up-from-another-person/answer/Ryan-Holiday?srid=uIJQR
 2. https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692/
+3. https://www.quora.com/Whats-something-I-can-do-right-now-to-increase-my-productivity/answer/Ryan-Holiday
+4. https://www.linkedin.com/pulse/i-did-200-podcasts-my-heroes-what-learned-james-altucher
+5. "Trust the process", Do Not focus on the results, rather Focus on the process that gets the result.
+6. Focusing on the results is a short-sighted, leads to anger, frustration, exhaustion & people then quit.
+7. Instead practice with Deep Focus.
+8. https://simpleprogrammer.com/2015/09/28/trust-the-process/
+9. https://www.amazon.com/exec/obidos/ASIN/1936891026/makithecompsi-20
+10. If you keep going, you’ll eventually get there
+
+
 
 ## Breakout List
 1. https://breakoutlist.com/
