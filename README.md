@@ -30,8 +30,37 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 9. https://www.linkedin.com/pulse/its-all-start-abhishek-roy
 10. https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1
 
+## Breakout List
+1. https://breakoutlist.com/
+
+## Google SRE Book
+1. https://landing.google.com/sre/book/index.html
+
+## Biz/Startups
+0. https://news.ycombinator.com/item?id=13326535  [Successful 1 person side biz, HN Thread]
+1. https://www.superhi.com/blog/how-to-start-a-startup-without-ruining-your-life
+2. https://feinternational.com/
+3. https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d
+
+## Burn Out / Depression - Do Something
+1. https://www.kennethreitz.org/essays/the-reality-of-developer-burnout
+2. https://byrslf.co/when-you-are-depressed-make-something-49467edd1933#.a4bh1rkgv
+
+## Meditation
+1. http://quietkit.com/
+2. https://stresscube.com/
+
 ## Descriptive Statistics Intro
 1. http://debrouwere.org/2017/02/01/unlearning-descriptive-statistics/
+2. http://blog.fastforwardlabs.com/2017/01/30/the-algorithms-behind-probabilistic-programming.html
+3. https://dzone.com/articles/the-intersection-between-the-top-data-mining-algor
+4. https://dzone.com/articles/we-heart-swift-how-one-team-are-lowering-the-learn (Learning Swift)
+
+## HN Some Interesting Stuff
+4. https://news.ycombinator.com/item?id=13502901
+5. https://news.ycombinator.com/item?id=13487886
+6. https://news.ycombinator.com/item?id=13492501
+
 
 ## Data Structures Tutorials
 1. http://cs.yale.edu/homes/aspnes/classes/223/notes.html
