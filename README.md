@@ -30,6 +30,11 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 9. https://www.linkedin.com/pulse/its-all-start-abhishek-roy
 10. https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1
 
+
+## Deep Work
+1. https://www.quora.com/What-is-the-best-habit-youve-taken-up-from-another-person/answer/Ryan-Holiday?srid=uIJQR
+2. https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692/
+
 ## Breakout List
 1. https://breakoutlist.com/
 
