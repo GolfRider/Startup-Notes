@@ -30,6 +30,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 9. https://www.linkedin.com/pulse/its-all-start-abhishek-roy
 10. https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1
 
+## Descriptive Statistics Intro
+1. http://debrouwere.org/2017/02/01/unlearning-descriptive-statistics/
+
 ## Data Structures Tutorials
 1. http://cs.yale.edu/homes/aspnes/classes/223/notes.html
 2. https://www.cs.auckland.ac.nz/~jmor159/PLDS210/ds_ToC.html
