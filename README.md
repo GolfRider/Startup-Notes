@@ -51,6 +51,12 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## Google SRE Book
 1. https://landing.google.com/sre/book/index.html
 
+## Subhash Kak's modern interpretation
+1. https://www.linkedin.com/pulse/indian-science-classics-curriculum-subhash-kak
+
+## BetterExplained
+1. https://betterexplained.com/articles/the-rule-of-72/
+
 ## Biz/Startups
 0. https://news.ycombinator.com/item?id=13326535  [Successful 1 person side biz, HN Thread]
 1. https://www.superhi.com/blog/how-to-start-a-startup-without-ruining-your-life
