@@ -30,6 +30,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 9. https://www.linkedin.com/pulse/its-all-start-abhishek-roy
 10. https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1
 
+## Scala Basics
+1. http://www.dhgarrette.com/nlpclass/scala/basics.html
+
 ## Fix Things - Paul Graham, YC
 1. "Just fix things that seem broken, regardless of whether it seems likes the problem is important enough 
    to build a company  on."
