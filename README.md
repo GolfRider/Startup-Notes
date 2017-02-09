@@ -33,6 +33,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## Scala Basics
 1. http://www.dhgarrette.com/nlpclass/scala/basics.html
 
+## HN Discussion on Untapped Opportunityies for Startups
+1. https://news.ycombinator.com/item?id=13576236
+
 ## Fix Things - Paul Graham, YC
 1. "Just fix things that seem broken, regardless of whether it seems likes the problem is important enough 
    to build a company  on."
