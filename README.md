@@ -41,6 +41,11 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
    to build a company  on."
 2. https://www.goodreads.com/author/quotes/23551.Paul_Graham
 
+## Backtracking
+1. http://www.cis.upenn.edu/~matuszek/cit594-2012/Pages/backtracking.html
+2. http://www.cis.upenn.edu/~matuszek/cit594-2012/
+3. https://rekinyz.wordpress.com/category/programming/algorithms/
+
 ## Deep Work
 1. https://www.quora.com/What-is-the-best-habit-youve-taken-up-from-another-person/answer/Ryan-Holiday?srid=uIJQR
 2. https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692/
