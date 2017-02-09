@@ -36,6 +36,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## Julia Evans Amazing Zines
 1. http://jvns.ca/zines/
 
+## Why Projects by large team often fails
+1. http://blog.mojotech.com/why-products-built-by-large-teams-fail-so-often/
+
 ## HN Discussion on Untapped Opportunities for Startups
 1. https://news.ycombinator.com/item?id=13576236
 
