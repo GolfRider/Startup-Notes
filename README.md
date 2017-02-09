@@ -33,7 +33,7 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## Scala Basics
 1. http://www.dhgarrette.com/nlpclass/scala/basics.html
 
-## HN Discussion on Untapped Opportunityies for Startups
+## HN Discussion on Untapped Opportunities for Startups
 1. https://news.ycombinator.com/item?id=13576236
 
 ## Fix Things - Paul Graham, YC
