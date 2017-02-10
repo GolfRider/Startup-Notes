@@ -47,6 +47,15 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
    to build a company  on."
 2. https://www.goodreads.com/author/quotes/23551.Paul_Graham
 
+## Postgres Internals
+1. http://www.interdb.jp/pg/
+
+## Algo Prep Notes - Quora
+1. https://randomrants.quora.com/Important-Algorithms-to-solve-programming-Puzzles
+2. http://programminginterviewprep.com/
+3. http://mjuchem.com/how-to-prep-for-swe-interview/
+
+
 ## Backtracking
 1. http://www.cis.upenn.edu/~matuszek/cit594-2012/Pages/backtracking.html
 2. http://www.cis.upenn.edu/~matuszek/cit594-2012/
