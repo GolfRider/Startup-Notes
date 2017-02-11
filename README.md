@@ -54,6 +54,7 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 1. https://randomrants.quora.com/Important-Algorithms-to-solve-programming-Puzzles
 2. http://programminginterviewprep.com/
 3. http://mjuchem.com/how-to-prep-for-swe-interview/
+4. https://www.gitbook.com/book/knaidu/problem-solving/details
 
 
 ## Backtracking
