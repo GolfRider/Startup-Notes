@@ -31,6 +31,10 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 10. https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1
 
 
+## Deadlines, Some times better ?
+1. The awesome thing about deadlines is that it forces you to make better decisions faster because 
+   there simply isn’t enough time to thoroughly explore everything.
+
 ## DataCamp
 1. https://www.quora.com/How-does-a-total-beginner-start-to-learn-machine-learning/answer/Karlijn-Willems-1
 
