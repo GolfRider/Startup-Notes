@@ -47,6 +47,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## Scala Basics
 1. http://www.dhgarrette.com/nlpclass/scala/basics.html
 
+## Deploy & Hosting Infrastructure Comparison
+1. https://deploystack.io/
+
 ## Julia Evans Amazing Zines
 1. http://jvns.ca/zines/
 
