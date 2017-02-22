@@ -41,6 +41,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## Software Design + OOP Principles - Short Detour   
 1. https://dzone.com/articles/solid-grasp-and-other-basic-principles-of-object-o
 
+## SaaS Apps Pricing List
+1. https://cushionapp.com/running-costs/
+
 ## DataCamp
 1. https://www.quora.com/How-does-a-total-beginner-start-to-learn-machine-learning/answer/Karlijn-Willems-1
 
