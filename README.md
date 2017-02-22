@@ -31,6 +31,10 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 10. https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1
 
 
+## Stupid Code & Dsicipline
+1. https://thorstenball.com/blog/2015/10/22/write-stupid-code/
+2. https://thorstenball.com/blog/2013/01/15/discipline/
+
 ## Success = Expt
 1. https://medium.com/abundance-insights/success-experimentation-4197b4ea53a#.ea3umgz4s
 
