@@ -47,6 +47,10 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## SaaS Apps Pricing List
 1. https://cushionapp.com/running-costs/
 
+## API Design Guides
+1. https://cloud.google.com/apis/design/
+2. https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
+
 ## DataCamp
 1. https://www.quora.com/How-does-a-total-beginner-start-to-learn-machine-learning/answer/Karlijn-Willems-1
 
