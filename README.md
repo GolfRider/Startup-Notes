@@ -31,6 +31,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 10. https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1
 
 
+## Success = Expt
+1. https://medium.com/abundance-insights/success-experimentation-4197b4ea53a#.ea3umgz4s
+
 ## Data Science/ML/DL/Nifi Tools at Command line 
 1. https://dzone.com/articles/big-data-ml-dl-command-line-tools
 
