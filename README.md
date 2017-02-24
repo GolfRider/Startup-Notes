@@ -94,6 +94,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 2. http://www.cis.upenn.edu/~matuszek/cit594-2012/
 3. https://rekinyz.wordpress.com/category/programming/algorithms/
 
+## Deep Work/Flow
+1. https://www.robinwieruch.de/lessons-learned-deep-work-flow/
+
 ## Deep Work
 1. https://www.quora.com/What-is-the-best-habit-youve-taken-up-from-another-person/answer/Ryan-Holiday?srid=uIJQR
 2. https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692/
