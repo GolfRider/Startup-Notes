@@ -56,6 +56,12 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 2. https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
 3. https://stripe.com/blog/idempotency
 
+## RegEx Basics
+1. http://webagility.com/posts/the-basics-of-regex-explained
+
+## Python + ML
+1. http://www.python-course.eu/machine_learning.php
+
 ## DataCamp
 1. https://www.quora.com/How-does-a-total-beginner-start-to-learn-machine-learning/answer/Karlijn-Willems-1
 
