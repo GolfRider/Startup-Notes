@@ -31,6 +31,11 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 10. https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1
 
 
+## Productivity Tips + Why you should aim high and realise your dreams
+1. https://www.linkedin.com/pulse/13-things-you-should-give-up-want-successful-zdravko-cvijeti%C4%87
+2. Because it lets others to liberate from thier fears ...
+
+
 ## Stupid Code & Dsicipline
 1. https://thorstenball.com/blog/2015/10/22/write-stupid-code/
 2. https://thorstenball.com/blog/2013/01/15/discipline/
