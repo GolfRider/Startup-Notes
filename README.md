@@ -36,6 +36,11 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 2. Because it lets others to liberate from thier fears ...
 
 
+## Statistic Visualizations
+1. http://students.brown.edu/seeing-theory/
+2. http://setosa.io/ev/
+3. http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
+
 ## Stupid Code & Dsicipline
 1. https://thorstenball.com/blog/2015/10/22/write-stupid-code/
 2. https://thorstenball.com/blog/2013/01/15/discipline/
