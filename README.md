@@ -40,6 +40,8 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 2. http://softwareengineering.stackexchange.com/questions/49550/which-hashing-algorithm-is-best-for-uniqueness-and-speed/145633#145633
 3. https://akshatm.svbtle.com/consistent-hash-rings-theory-and-implementation
 
+## Probablity Intuition
+1. http://www.probabilisticworld.com/
 
 ## Statistic Visualizations
 1. http://students.brown.edu/seeing-theory/
