@@ -35,6 +35,11 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 1. https://www.linkedin.com/pulse/13-things-you-should-give-up-want-successful-zdravko-cvijeti%C4%87
 2. Because it lets others to liberate from thier fears ...
 
+## Consistent/Rendezvous Hashing + Other Hashing Techniques
+1. https://ziade.org/2016/05/16/consistent-load-balancing/
+2. http://softwareengineering.stackexchange.com/questions/49550/which-hashing-algorithm-is-best-for-uniqueness-and-speed/145633#145633
+3. https://akshatm.svbtle.com/consistent-hash-rings-theory-and-implementation
+
 
 ## Statistic Visualizations
 1. http://students.brown.edu/seeing-theory/
