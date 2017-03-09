@@ -35,10 +35,17 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 1. https://www.linkedin.com/pulse/13-things-you-should-give-up-want-successful-zdravko-cvijeti%C4%87
 2. Because it lets others to liberate from thier fears ...
 
+## System Design Primer (Awesome)
+1. https://github.com/donnemartin/system-design-primer
+2. Check the links at the bottom as well.
+3. https://www.educative.io/collection/5668639101419520/5649050225344512
+
 ## Consistent/Rendezvous Hashing + Other Hashing Techniques
 1. https://ziade.org/2016/05/16/consistent-load-balancing/
 2. http://softwareengineering.stackexchange.com/questions/49550/which-hashing-algorithm-is-best-for-uniqueness-and-speed/145633#145633
 3. https://akshatm.svbtle.com/consistent-hash-rings-theory-and-implementation
+
+
 
 ## Probablity Intuition
 1. http://www.probabilisticworld.com/
@@ -51,6 +58,7 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## Stupid Code & Dsicipline
 1. https://thorstenball.com/blog/2015/10/22/write-stupid-code/
 2. https://thorstenball.com/blog/2013/01/15/discipline/
+
 
 ## Success = Expt
 1. https://medium.com/abundance-insights/success-experimentation-4197b4ea53a#.ea3umgz4s
