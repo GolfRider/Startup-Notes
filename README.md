@@ -35,6 +35,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 1. https://www.linkedin.com/pulse/13-things-you-should-give-up-want-successful-zdravko-cvijeti%C4%87
 2. Because it lets others to liberate from thier fears ...
 
+## API Stuff
+1. http://apievangelist.com/  (Cool one)
+
 ## System Design Primer (Awesome)
 1. https://github.com/donnemartin/system-design-primer
 2. Check the links at the bottom as well.
