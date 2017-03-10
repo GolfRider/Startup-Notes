@@ -30,6 +30,13 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 9. https://www.linkedin.com/pulse/its-all-start-abhishek-roy
 10. https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1
 
+## How to ship things
+1. http://ewanvalentine.io/how-to-never-complete-anything/
+2. https://neilonsoftware.com/2017/03/10/my-response-to-how-to-never-complete-anything/
+3. Doing everyday makes things easy, but doing it everyday is the hardest part.
+4. Have a clear end, before you start things.
+5. Complete first, before you start on to the next thing.
+
 ## Deep Learning Links
 1. https://dzone.com/articles/deep-learning-and-machine-learning-guide-part-iii
 
