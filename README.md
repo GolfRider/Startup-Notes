@@ -17,6 +17,8 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## Improve the average
 1. https://www.linkedin.com/pulse/winners-dont-take-all-improve-averages-ramarao-kanneganti
 
+## Self Driving
+1. https://www.2025ad.com
 
 ## Startups / Enterpreneurship
 1. How to start a company with no free time:
