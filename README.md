@@ -23,6 +23,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## HN TODO Strategy (Reading)
 1. https://news.ycombinator.com/item?id=13855577
 
+## Amazing Guys
+1. http://www.bbc.com/culture/story/20170312-the-amazing-flying-machines-of-chinese-farmers
+
 ## Startups / Enterpreneurship
 1. How to start a company with no free time:
      https://medium.com/startup-grind/how-to-start-a-company-with-no-free-time-b70fbe7b918a/
