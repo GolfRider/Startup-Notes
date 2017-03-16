@@ -19,7 +19,14 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 
 ## Some Good CS/Algo books
 1. https://www.quora.com/What-is-the-favorite-book-of-Michal-Fori%C5%A1ek-about-computer-science
+2. https://www.quora.com/How-many-problems-we-should-solve-per-day-to-be-a-good-competitive-programmer
+3. Choose problems that will improve your skills.
 
+## Startup shouldn't be LLC ?
+1. https://news.ycombinator.com/item?id=13876679
+
+## Jmaes Altucher's fave books
+1. https://www.quora.com/What-is-the-most-life-changing-book-youve-ever-read
 
 ## Self Driving
 1. https://www.2025ad.com
