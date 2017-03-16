@@ -17,6 +17,10 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## Improve the average
 1. https://www.linkedin.com/pulse/winners-dont-take-all-improve-averages-ramarao-kanneganti
 
+## Some Good CS/Algo books
+1. https://www.quora.com/What-is-the-favorite-book-of-Michal-Fori%C5%A1ek-about-computer-science
+
+
 ## Self Driving
 1. https://www.2025ad.com
 
