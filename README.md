@@ -25,8 +25,15 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## Startup shouldn't be LLC ?
 1. https://news.ycombinator.com/item?id=13876679
 
-## Jmaes Altucher's fave books
+## James Altucher's fave books
 1. https://www.quora.com/What-is-the-most-life-changing-book-youve-ever-read
+
+## Some tools
+1. http://sadacaraveo.com/programs-that-have-saved-me-more-than-100-hours-by-automating-repetitive-tasks
+
+## Tech Articles - Effective at Scale
+1. https://blog.discordapp.com/how-discord-indexes-billions-of-messages-e3d5e9be866f#.lwtiibdjb
+2. https://segment.com/blog/the-million-dollar-eng-problem/
 
 ## Self Driving
 1. https://www.2025ad.com
