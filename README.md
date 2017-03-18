@@ -41,6 +41,11 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## HN TODO Strategy (Reading)
 1. https://news.ycombinator.com/item?id=13855577
 
+
+## Deep Learning
+1. https://iamtrask.github.io/2017/03/17/safe-ai/
+
+
 ## Amazing Guys
 1. http://www.bbc.com/culture/story/20170312-the-amazing-flying-machines-of-chinese-farmers
 
