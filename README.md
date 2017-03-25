@@ -25,6 +25,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## Startup shouldn't be LLC ?
 1. https://news.ycombinator.com/item?id=13876679
 
+## Some Good Blog to check
+1. http://oliveremberton.com/
+
 ## James Altucher's fave books
 1. https://www.quora.com/What-is-the-most-life-changing-book-youve-ever-read
 
