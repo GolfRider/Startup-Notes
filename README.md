@@ -9,7 +9,11 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ### Mwetacademy
 1. https://metacademy.org/roadmaps/
    Curated way to study on the web :-)
-
+   
+ ## Haskell / Clojure
+ 1. https://torchhound.github.io/posts/haskellOneSentence.html
+ 2. https://aphyr.com/tags/Clojure-from-the-ground-up (read reverse)
+ 
 ### Warren Buffet's Single Advice to Boost your value by 50% (Public Speaking)
 1. http://www.inc.com/carmine-gallo/the-one-skill-warren-buffett-says-will-raise-your-value-by-50.html
 
