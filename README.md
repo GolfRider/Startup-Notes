@@ -20,6 +20,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## Computer Alogrithms (Creative)
 1. http://carlcheo.com/compsci
 
+## Google OpenSource
+1. https://opensource.google.com/
+
 ## Successful one-person oneline businesses (HN)
 1. https://news.ycombinator.com/item?id=13326535
 
