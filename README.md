@@ -23,6 +23,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## Creative JS
 1. http://www.createjs.com/ (html5 games+audio etc)
 
+## Audio Processing
+1. https://www.coursera.org/learn/audio-signal-processing
+
 ## Google OpenSource
 1. https://opensource.google.com/
 
