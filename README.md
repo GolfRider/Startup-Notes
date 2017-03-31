@@ -23,6 +23,18 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## Google OpenSource
 1. https://opensource.google.com/
 
+## Deep Learning - Easy Start
+1. http://ricardodeazambuja.com/deep_learning/2017/01/29/easy-peasy_deep_learning/
+
+## Rate Limiters - Stripe Way
+1. https://stripe.com/blog/rate-limiters
+
+## Green Approaches
+1. http://withouthotair.com/
+
+## Hardest part about Microservices
+1. http://blog.christianposta.com/microservices/the-hardest-part-about-microservices-data/
+
 ## Successful one-person oneline businesses (HN)
 1. https://news.ycombinator.com/item?id=13326535
 
