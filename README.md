@@ -6,7 +6,7 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 
 
 
-### Mwetacademy
+### Metacademy
 1. https://metacademy.org/roadmaps/
    Curated way to study on the web :-)
    
