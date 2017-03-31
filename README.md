@@ -23,6 +23,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## Creative JS
 1. http://www.createjs.com/ (html5 games+audio etc)
 
+## Job Adventures
+1, https://www.reddit.com/r/cscareerquestions/comments/6278bi/my_journey_and_tips_29_gpa_at_a_noname_liberal/ 
+
 ## Audio Processing
 1. https://www.coursera.org/learn/audio-signal-processing
 
