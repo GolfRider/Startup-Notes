@@ -20,6 +20,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## Computer Alogrithms (Creative)
 1. http://carlcheo.com/compsci
 
+## Creative JS
+1. http://www.createjs.com/ (html5 games+audio etc)
+
 ## Google OpenSource
 1. https://opensource.google.com/
 
