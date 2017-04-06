@@ -26,6 +26,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## Password Hashing
 1. https://paragonie.com/blog/2016/02/how-safely-store-password-in-2016#java
 
+## Ryan Holiday's Podcast
+1. http://www.jamesaltucher.com/2017/04/ep-222-ryan-holiday
+
 ## Job Adventures
 1, https://www.reddit.com/r/cscareerquestions/comments/6278bi/my_journey_and_tips_29_gpa_at_a_noname_liberal/ 
 
