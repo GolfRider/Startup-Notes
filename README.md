@@ -38,6 +38,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ## Google OpenSource
 1. https://opensource.google.com/
 
+## Security
+1. https://dzone.com/articles/my-csslp-notes-secure-software-concepts
+
 ## Deep Learning - Easy Start
 1. http://ricardodeazambuja.com/deep_learning/2017/01/29/easy-peasy_deep_learning/
 
