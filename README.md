@@ -18,6 +18,10 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 1. https://news.ycombinator.com/item?id=14111608
 2. https://redditblog.com/2017/04/13/how-we-built-rplace/
 
+### Linear algebra
+1. https://minireference.com/blog/no-bullshit-linear-algebra-v2-release/
+
+
 ### Metacademy
 1. https://metacademy.org/roadmaps/
    Curated way to study on the web :-)
