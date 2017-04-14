@@ -4,7 +4,15 @@ These are some of the few bookmarks on various topics ranging from technology, s
 It may not be properly organized. They say, don't chase perfection, just do it.
 Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 
+### How to productive
+1. https://www.quora.com/What-are-the-best-daily-routines-of-highly-productive-people/answer/Will-Chou-7
 
+## Bezos Decision Making Approach
+1. http://www.businessinsider.com/jeff-bezos-explains-the-perfect-way-to-make-risky-business-decisions-2017-4
+2. HN thread: https://news.ycombinator.com/item?id=14102580
+3. "Indecision is a decision (and often the worst one)."
+4. Making high-quality, high-velocity decisions is more fun(easier for startups, challenging for large organizations)
+5. https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm  (Jeff Bezos letter, great read)
 
 ### Metacademy
 1. https://metacademy.org/roadmaps/
@@ -46,6 +54,7 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 
 ## Rate Limiters - Stripe Way
 1. https://stripe.com/blog/rate-limiters
+2. https://medium.com/smyte/rate-limiter-df3408325846
 
 ## Green Approaches
 1. http://withouthotair.com/
