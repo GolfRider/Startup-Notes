@@ -7,12 +7,15 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ### How to productive
 1. https://www.quora.com/What-are-the-best-daily-routines-of-highly-productive-people/answer/Will-Chou-7
 
-## Bezos Decision Making Approach
+### Bezos Decision Making Approach
 1. http://www.businessinsider.com/jeff-bezos-explains-the-perfect-way-to-make-risky-business-decisions-2017-4
 2. HN thread: https://news.ycombinator.com/item?id=14102580
 3. "Indecision is a decision (and often the worst one)."
 4. Making high-quality, high-velocity decisions is more fun(easier for startups, challenging for large organizations)
 5. https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm  (Jeff Bezos letter, great read)
+
+### Who will remember you in 100 years
+1. https://micaelwidell.com/who-will-remember-you-in-100-years/
 
 ### System Design Notes
 1. https://news.ycombinator.com/item?id=14111608
