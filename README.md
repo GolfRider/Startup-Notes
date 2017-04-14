@@ -17,6 +17,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ### Who will remember you in 100 years
 1. https://micaelwidell.com/who-will-remember-you-in-100-years/
 
+### Competitive Programming Handbook (good one)
+1. https://cses.fi/book.html
+
 ### System Design Notes
 1. https://news.ycombinator.com/item?id=14111608
 2. https://redditblog.com/2017/04/13/how-we-built-rplace/
