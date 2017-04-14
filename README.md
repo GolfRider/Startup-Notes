@@ -14,6 +14,10 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 4. Making high-quality, high-velocity decisions is more fun(easier for startups, challenging for large organizations)
 5. https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm  (Jeff Bezos letter, great read)
 
+### System Design Notes
+1. https://news.ycombinator.com/item?id=14111608
+2. https://redditblog.com/2017/04/13/how-we-built-rplace/
+
 ### Metacademy
 1. https://metacademy.org/roadmaps/
    Curated way to study on the web :-)
