@@ -17,6 +17,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ### Who will remember you in 100 years
 1. https://micaelwidell.com/who-will-remember-you-in-100-years/
 
+### How complex systems fail
+1. http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf
+
 ### Competitive Programming Handbook (good one)
 1. https://cses.fi/book.html
 
