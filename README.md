@@ -4,7 +4,10 @@ These are some of the few bookmarks on various topics ranging from technology, s
 It may not be properly organized. They say, don't chase perfection, just do it.
 Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 
-### How to productive
+### Who will remember you in 100 years
+1. https://micaelwidell.com/who-will-remember-you-in-100-years/
+
+### How to be productive
 1. https://www.quora.com/What-are-the-best-daily-routines-of-highly-productive-people/answer/Will-Chou-7
 
 ### Bezos Decision Making Approach
@@ -13,9 +16,6 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 3. "Indecision is a decision (and often the worst one)."
 4. Making high-quality, high-velocity decisions is more fun(easier for startups, challenging for large organizations)
 5. https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm  (Jeff Bezos letter, great read)
-
-### Who will remember you in 100 years
-1. https://micaelwidell.com/who-will-remember-you-in-100-years/
 
 ### HN on Best Business Advice for Software Developers
 1. https://news.ycombinator.com/item?id=14146850 (Good one)
