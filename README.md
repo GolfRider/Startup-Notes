@@ -17,6 +17,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ### Who will remember you in 100 years
 1. https://micaelwidell.com/who-will-remember-you-in-100-years/
 
+### HN on Best Business Advice for Software Developers
+1. https://news.ycombinator.com/item?id=14146850 (Good one)
+
 ### How complex systems fail
 1. http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf
 
@@ -29,7 +32,6 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 
 ### Linear algebra
 1. https://minireference.com/blog/no-bullshit-linear-algebra-v2-release/
-
 
 ### Metacademy
 1. https://metacademy.org/roadmaps/
