@@ -270,6 +270,7 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 
 ## Google SRE Book
 1. https://landing.google.com/sre/book/index.html
+2. https://landing.google.com/sre/interview/ben-treynor.html
 
 ## Subhash Kak's modern interpretation
 1. https://www.linkedin.com/pulse/indian-science-classics-curriculum-subhash-kak
