@@ -10,6 +10,12 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ### How to be productive
 1. https://www.quora.com/What-are-the-best-daily-routines-of-highly-productive-people/answer/Will-Chou-7
 
+### How to approach your customer
+1. https://news.ycombinator.com/item?id=14155460 (Good one)
+
+### Top Software Engineering (Companies) Blogs
+1. https://news.ycombinator.com/item?id=14163905
+
 ### Bezos Decision Making Approach
 1. http://www.businessinsider.com/jeff-bezos-explains-the-perfect-way-to-make-risky-business-decisions-2017-4
 2. HN thread: https://news.ycombinator.com/item?id=14102580
