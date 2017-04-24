@@ -16,6 +16,16 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ### Top Software Engineering (Companies) Blogs
 1. https://news.ycombinator.com/item?id=14163905
 
+### Concise PDF for Algorithms/Datastructures (Good & Concise)
+1. http://www.raymondxu.io/datastructures.pdf
+2. http://www.raymondxu.io/algorithms.pdf
+3. http://www.raymondxu.io/dp.pdf
+4. http://www.raymondxu.io/ [Check the talks section]
+5. https://learn.devfe.st/
+
+### Earlier version
+1. https://github.com/GolfRider/Good-Links
+
 ### Bezos Decision Making Approach
 1. http://www.businessinsider.com/jeff-bezos-explains-the-perfect-way-to-make-risky-business-decisions-2017-4
 2. HN thread: https://news.ycombinator.com/item?id=14102580
