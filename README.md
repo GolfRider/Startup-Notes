@@ -83,6 +83,7 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 
 ## Security
 1. https://dzone.com/articles/my-csslp-notes-secure-software-concepts
+2. https://www.smashingmagazine.com/2017/04/secure-web-app-http-headers/
 
 ## Deep Learning - Easy Start
 1. http://ricardodeazambuja.com/deep_learning/2017/01/29/easy-peasy_deep_learning/
