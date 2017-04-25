@@ -7,6 +7,12 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ### Who will remember you in 100 years
 1. https://micaelwidell.com/who-will-remember-you-in-100-years/
 
+### How to be successful (practical advice)
+1. https://80000hours.org/career-guide/how-to-be-successful/
+
+### How to be well connected 
+1. http://firstround.com/review/how-to-become-insanely-well-connected/
+
 ### How to be productive
 1. https://www.quora.com/What-are-the-best-daily-routines-of-highly-productive-people/answer/Will-Chou-7
 
