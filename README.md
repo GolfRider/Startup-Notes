@@ -10,6 +10,11 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ### How to be successful (practical advice)
 1. https://80000hours.org/career-guide/how-to-be-successful/
 
+### How Elon Musk learns & innovates  (Good One)
+1. https://qz.com/968101/how-elon-musk-learns-faster-and-better-than-everyone-else/
+2. Expert-Generalists, contrast cases, first principles (trunk + big branches)
+3. Good article
+
 ### How to be well connected 
 1. http://firstround.com/review/how-to-become-insanely-well-connected/
 
