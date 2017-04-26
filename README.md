@@ -16,6 +16,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ### How to be productive
 1. https://www.quora.com/What-are-the-best-daily-routines-of-highly-productive-people/answer/Will-Chou-7
 
+### LeetCode Practice Problems
+1. https://jeantimex.gitbooks.io/solve-leetcode-problems/content/
+
 ### How to approach your customer
 1. https://news.ycombinator.com/item?id=14155460 (Good one)
 
