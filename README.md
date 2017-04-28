@@ -24,6 +24,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ### Data Science Online Courses Review
 1. https://medium.freecodecamp.com/i-ranked-all-the-best-data-science-intro-courses-based-on-thousands-of-data-points-db5dc7e3eb8e
 
+### Good tutorials on Frameworks (Java, Spring etc)
+1. http://zetcode.com/
+
 ### ML on mobile
 1. http://machinethink.net/blog/machine-learning-device-or-cloud/
 
