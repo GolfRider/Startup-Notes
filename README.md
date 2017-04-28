@@ -34,6 +34,10 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 1. https://medium.com/espark-engineering-blog/formal-methods-in-practice-8f20d72bce4f
 2. https://learntla.com/introduction/ 
 
+### How to talk about yourself in tech interviews.
+1. https://news.ycombinator.com/item?id=14218559 (HN discussion)
+2. https://stackoverflow.blog/2017/04/27/how-to-talk-about-yourself-in-an-interview/
+
 ###  Some cool answers on Quora:
 https://www.quora.com/What-are-small-facts-about-psychology-that-can-be-learnt-quick-to-apply-in-real-life/answer/Gus-Griffin
 https://www.quora.com/What-are-some-things-you-realize-as-you-get-older/answer/Gus-Griffin
