@@ -24,6 +24,13 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ### Data Science Online Courses Review
 1. https://medium.freecodecamp.com/i-ranked-all-the-best-data-science-intro-courses-based-on-thousands-of-data-points-db5dc7e3eb8e
 
+###  Some cool answers on Quora:
+https://www.quora.com/What-are-small-facts-about-psychology-that-can-be-learnt-quick-to-apply-in-real-life/answer/Gus-Griffin
+https://www.quora.com/What-are-some-things-you-realize-as-you-get-older/answer/Gus-Griffin
+https://www.quora.com/What-are-the-key-traits-of-mentally-strong-people/answer/Gus-Griffin
+https://www.quora.com/What-secret-sides-of-human-nature-do-therapists-see-that-non-therapists-would-be-surprised-about/answer/Gus-Griffin
+
+
 ### LeetCode Practice Problems
 1. https://jeantimex.gitbooks.io/solve-leetcode-problems/content/
 
