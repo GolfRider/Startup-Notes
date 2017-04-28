@@ -21,6 +21,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ### How to be productive
 1. https://www.quora.com/What-are-the-best-daily-routines-of-highly-productive-people/answer/Will-Chou-7
 
+### Data Science Online Courses Review
+1. https://medium.freecodecamp.com/i-ranked-all-the-best-data-science-intro-courses-based-on-thousands-of-data-points-db5dc7e3eb8e
+
 ### LeetCode Practice Problems
 1. https://jeantimex.gitbooks.io/solve-leetcode-problems/content/
 
