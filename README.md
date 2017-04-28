@@ -30,6 +30,10 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ### ML on mobile
 1. http://machinethink.net/blog/machine-learning-device-or-cloud/
 
+### Formal Methods / TLA (Lamport's specification on system design and its correctness)
+1. https://medium.com/espark-engineering-blog/formal-methods-in-practice-8f20d72bce4f
+2. https://learntla.com/introduction/ 
+
 ###  Some cool answers on Quora:
 https://www.quora.com/What-are-small-facts-about-psychology-that-can-be-learnt-quick-to-apply-in-real-life/answer/Gus-Griffin
 https://www.quora.com/What-are-some-things-you-realize-as-you-get-older/answer/Gus-Griffin
