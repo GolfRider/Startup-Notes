@@ -21,6 +21,13 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ### How to be productive
 1. https://www.quora.com/What-are-the-best-daily-routines-of-highly-productive-people/answer/Will-Chou-7
 
+### How do you keep improving ?  (HN Discussions)
+1. https://news.ycombinator.com/item?id=14218408 
+
+### Sometimes unwind yourself, even when lot of things are piled up ?
+1. https://qz.com/970924/the-psychological-importance-of-wasting-time/
+2. https://news.ycombinator.com/item?id=14231158
+
 ### Data Science Online Courses Review
 1. https://medium.freecodecamp.com/i-ranked-all-the-best-data-science-intro-courses-based-on-thousands-of-data-points-db5dc7e3eb8e
 
