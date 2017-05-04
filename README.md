@@ -15,6 +15,12 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 2. Expert-Generalists, contrast cases, first principles (trunk + big branches)
 3. Good article
 
+### 5 Most important programming concepts
+1. https://www.quora.com/What-are-the-five-most-important-programming-concepts
+
+### How to motivate yourself, when your are feeling down:
+1. https://news.ycombinator.com/item?id=14256746
+
 ### How to be well connected 
 1. http://firstround.com/review/how-to-become-insanely-well-connected/
 
