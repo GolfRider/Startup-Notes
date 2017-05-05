@@ -34,6 +34,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ### How to be productive
 1. https://www.quora.com/What-are-the-best-daily-routines-of-highly-productive-people/answer/Will-Chou-7
 
+### Good Short intro on various technical things
+1. http://www.integralist.co.uk/index.html
+
 ### How do you keep improving ?  (HN Discussions)
 1. https://news.ycombinator.com/item?id=14218408 
 
