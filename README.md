@@ -18,6 +18,10 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ### How to position yourself in Life ? (Good One)
 1. https://hackernoon.com/i-spent-all-of-my-millions-this-is-what-i-learned-9975ab94c924
 
+### Conciusmess vs Computational, Roger Penrose ?
+1. https://news.ycombinator.com/item?id=14263842
+2. http://nautil.us/issue/47/consciousness/roger-penrose-on-why-consciousness-does-not-compute
+
 ### 5 Most important programming concepts
 1. https://www.quora.com/What-are-the-five-most-important-programming-concepts
 
