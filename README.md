@@ -7,6 +7,11 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ### Cool Idea
 1. www.100millionbooks.org/standalone/
 
+### JS Screencasts
+1. https://scrimba.com/
+2. https://repl.it/site/react_native
+3. https://expo.io/ (React Native)
+
 
 ### Who will remember you in 100 years
 1. https://micaelwidell.com/who-will-remember-you-in-100-years/
