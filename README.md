@@ -4,6 +4,10 @@ These are some of the few bookmarks on various topics ranging from technology, s
 It may not be properly organized. They say, don't chase perfection, just do it.
 Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 
+### Cool Idea
+1. www.100millionbooks.org/standalone/
+
+
 ### Who will remember you in 100 years
 1. https://micaelwidell.com/who-will-remember-you-in-100-years/
 
@@ -15,12 +19,18 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 2. Expert-Generalists, contrast cases, first principles (trunk + big branches)
 3. Good article
 
+### Auth Techniques for APIs
+1. https://docs.google.com/spreadsheets/d/1tAX5ZJzluilhoYKjra-uHbMCZraaQkqIHl3RIQ8mVkM/htmlview?sle=true#gid=0
+
 ### How to position yourself in Life ? (Good One)
 1. https://hackernoon.com/i-spent-all-of-my-millions-this-is-what-i-learned-9975ab94c924
 
 ### Generating Permutations - Good One
 1. http://exceptional-code.blogspot.com/2012/09/generating-all-permutations.html
 2. https://news.ycombinator.com/item?id=14272847
+
+### Learning Music
+1. https://learningmusic.ableton.com/ (Good One)
 
 ### Conciusmess vs Computational, Roger Penrose ?
 1. https://news.ycombinator.com/item?id=14263842
