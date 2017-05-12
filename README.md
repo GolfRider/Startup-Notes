@@ -24,6 +24,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 2. Expert-Generalists, contrast cases, first principles (trunk + big branches)
 3. Good article
 
+### Deep Learning Stuff
+1. https://www.commonlounge.com/discussion/81f5bbcfea4e44b9b2bd081d1ea536ac/main
+
 ### Auth Techniques for APIs
 1. https://docs.google.com/spreadsheets/d/1tAX5ZJzluilhoYKjra-uHbMCZraaQkqIHl3RIQ8mVkM/htmlview?sle=true#gid=0
 
