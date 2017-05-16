@@ -19,6 +19,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ### How to be successful (practical advice)
 1. https://80000hours.org/career-guide/how-to-be-successful/
 
+### Some Math - Street fighting math
+1. https://mitpress.mit.edu/sites/default/files/titles/content/9780262514293_Creative_Commons_Edition.pdf
+
 ### How Elon Musk learns & innovates  (Good One)
 1. https://qz.com/968101/how-elon-musk-learns-faster-and-better-than-everyone-else/
 2. Expert-Generalists, contrast cases, first principles (trunk + big branches)
