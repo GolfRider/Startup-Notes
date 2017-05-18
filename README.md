@@ -15,6 +15,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ### Motivational Talk
 1. https://www.youtube.com/watch?v=jFDgsNSh484
 
+### ML Usage How - HN 
+https://news.ycombinator.com/item?id=14358120
+
 
 ### Who will remember you in 100 years
 1. https://micaelwidell.com/who-will-remember-you-in-100-years/
