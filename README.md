@@ -18,6 +18,8 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ### ML Usage How - HN 
 https://news.ycombinator.com/item?id=14358120
 
+### Programming Career Advice - HN
+1. https://news.ycombinator.com/item?id=14366070
 
 ### Who will remember you in 100 years
 1. https://micaelwidell.com/who-will-remember-you-in-100-years/
