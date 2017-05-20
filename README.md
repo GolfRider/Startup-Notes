@@ -4,6 +4,9 @@ These are some of the few bookmarks on various topics ranging from technology, s
 It may not be properly organized. They say, don't chase perfection, just do it.
 Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 
+### How can I do social good through programming - HN Discussions 
+1. https://news.ycombinator.com/item?id=14375014
+
 ### Cool Idea
 1. www.100millionbooks.org/standalone/
 
