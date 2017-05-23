@@ -10,6 +10,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ### HTTPS Migration
 1. https://news.ycombinator.com/item?id=14393501
 
+### HN - Favorite Comments
+1. https://news.ycombinator.com/item?id=14396104
+
 ### Cool Idea
 1. www.100millionbooks.org/standalone/
 
