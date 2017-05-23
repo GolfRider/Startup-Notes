@@ -7,6 +7,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ### How can I do social good through programming - HN Discussions 
 1. https://news.ycombinator.com/item?id=14375014
 
+### HTTPS Migration
+1. https://news.ycombinator.com/item?id=14393501
+
 ### Cool Idea
 1. www.100millionbooks.org/standalone/
 
