@@ -7,6 +7,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ### How can I do social good through programming - HN Discussions 
 1. https://news.ycombinator.com/item?id=14375014
 
+### The nature of code - Book 
+1. http://natureofcode.com/book/
+
 ### How do you become productive in a new project as a senior developer ? - HN
 1. https://news.ycombinator.com/item?id=14398868
 
