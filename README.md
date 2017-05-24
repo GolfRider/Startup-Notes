@@ -7,6 +7,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ### How can I do social good through programming - HN Discussions 
 1. https://news.ycombinator.com/item?id=14375014
 
+### How do you become productive in a new project as a senior developer ? - HN
+1. https://news.ycombinator.com/item?id=14398868
+
 ### HTTPS Migration
 1. https://news.ycombinator.com/item?id=14393501
 
