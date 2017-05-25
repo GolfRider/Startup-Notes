@@ -10,6 +10,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ### The nature of code - Book 
 1. http://natureofcode.com/book/
 
+### Using Programming Languages to teach general thinking skills
+1. https://people.csail.mit.edu/rinard/paper/wowcs08.pdf
+
 ### How do you become productive in a new project as a senior developer ? - HN
 1. https://news.ycombinator.com/item?id=14398868
 
