@@ -10,6 +10,15 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ### The nature of code - Book 
 1. http://natureofcode.com/book/
 
+### Distributed Consensus - How your data is stored
+1. https://medium.com/@yonatanzunger/how-your-data-is-stored-or-the-laws-of-the-imaginary-greeks-54c569c17a49
+
+### Raft - Visualization
+1. http://thesecretlivesofdata.com/raft/
+
+### Books, new graduates  should read
+1. https://news.ycombinator.com/item?id=14417491
+
 ### Using Programming Languages to teach general thinking skills
 1. https://people.csail.mit.edu/rinard/paper/wowcs08.pdf
 
