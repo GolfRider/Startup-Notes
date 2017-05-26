@@ -16,6 +16,9 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ### Raft - Visualization
 1. http://thesecretlivesofdata.com/raft/
 
+### Why future is always on mind, that is its nature ? 
+https://www.nytimes.com/2017/05/19/opinion/sunday/why-the-future-is-always-on-your-mind.html?_r=0
+
 ### Books, new graduates  should read
 1. https://news.ycombinator.com/item?id=14417491
 
