@@ -13,6 +13,15 @@ Sometimes knowledge doesn't help, so take everything with a grain of salt  :-)
 ### Distributed Consensus - How your data is stored
 1. https://medium.com/@yonatanzunger/how-your-data-is-stored-or-the-laws-of-the-imaginary-greeks-54c569c17a49
 
+### How to sleep
+1. https://news.ycombinator.com/item?id=14435219
+
+### Food as medicine
+1. https://news.ycombinator.com/item?id=14439109
+
+### Examples of highly successful single-person business (HN)
+1. https://news.ycombinator.com/item?id=14437921
+
 ### Raft - Visualization
 1. http://thesecretlivesofdata.com/raft/
 
